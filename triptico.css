@@ -1,0 +1,57 @@
+.encabezado{
+	width: 754px;
+	height: 40px;
+	border: 1px solid black;
+	background:#ffc107;
+}
+
+.titulo{
+	text-align: center;
+}
+
+.columna1{
+	width: 168px;
+	height: 500px;
+	border-top: transparent;
+	border-left: 1px solid black;
+	border-bottom: 1px solid black;
+	border-right: transparent;
+	float: left;
+	padding: 16px;
+}
+
+.columna2{
+	width: 318px;
+	height: 500px;
+	border-top: transparent;
+	border-left: 1px solid black;
+	border-bottom: 1px solid black;
+	border-right: transparent;
+	float: left;
+	padding: 16px;
+}
+
+.columna3{
+	width: 168px;
+	height: 500px;
+	border: 1px solid black;
+	float: left;
+	border-top: transparent;
+	border-left: 1px solid black;
+	border-bottom: 1px solid black;
+	border-right: 1px solid black;
+	float: left;	
+	padding: 16px;
+}
+
+p{
+	text-align: justify;
+}
+
+h3,h2{
+	text-align: center;
+}
+
+.pie_pagina{
+
+}
